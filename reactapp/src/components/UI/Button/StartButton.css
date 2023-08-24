@@ -1,0 +1,17 @@
+.start-container {
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 100%;
+    justify-content: center;
+  }
+  .start-btn {
+    height: 40px;
+    font-size: 16px;
+    background-color: peachpuff;
+    border: 1px solid grey;
+    cursor: pointer;
+    font-weight: bold;
+    width: 600px;
+  }
+  

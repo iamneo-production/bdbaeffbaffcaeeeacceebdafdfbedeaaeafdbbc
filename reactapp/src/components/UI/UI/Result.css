@@ -1,0 +1,10 @@
+.result-page h3 {
+    background-color: palegoldenrod;
+    width: 900px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+  }
+  
